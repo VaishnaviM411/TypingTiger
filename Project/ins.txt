@@ -1,0 +1,10 @@
+VFP is an assisting tool to improve Typing Skills.
+It examines the performance on the basis of Accuracy as well as Speed.
+1.Practice section contains typing assignments. 
+2.The user can select the level (Beginner-Intermediate-Advanced) accordingly.
+3.Input username to maintain the progress.
+4.As soon as the assignment is displayed, start typing with full potential.
+5.The scorecard contains Accuracy Percentage, Typing Speed, Net Score.
+Typing Speed is Words per minute, including wrong words.
+Net Score indicates Correct Words per minute.
+ 
